@@ -1,0 +1,10 @@
+# Ignore build and devel directories
+catkin_ws/build/
+catkin_ws/devel/
+
+# Ignore Python cache files
+*.pyc
+__pycache__
+
+# Ignore other common ROS files
+catkin_ws/install/
